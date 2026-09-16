@@ -1,3 +1,7 @@
 /.gradle
 /.idea
 /build
+/app
+/carteproduit/app/build
+/carteproduit/.gradle
+/carteproduit/.idea
